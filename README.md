@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Eddie
-- 👀 I’m interested in design, coding and illustration
+- 👋 Hi, I’m Eddie (20yo)
+- 👀 I’m interested in design, development and illustration
 - 🌱 I’m currently learning HTML and CSS
 - 📫 How to reach me: www.instagram.com/eduardaeca
 
