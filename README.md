@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eddie (20yo)
-- 👀 I’m interested in design, development and illustration
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m interested in design and web development
+- 🌱 I’m currently learning HTML, CSS and JavaScript
 - 📫 How to reach me: www.instagram.com/eduardaeca
 
 <!---
