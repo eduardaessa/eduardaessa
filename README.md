@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eddie (20yo)
 - I’m interested in design and web development
-- I’m currently learning HTML, CSS and JavaScript
+- I’m currently studying VueJS and Spring
 - How to reach me: www.instagram.com/eduardaeca
 
 <!---
