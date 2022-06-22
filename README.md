@@ -4,8 +4,8 @@
 - How to reach me: www.instagram.com/eduardaeca -->
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alysson-Araujo&show_icons=true&theme=tokyonight">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alysson-Araujo&layout=compact&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardaEssa&show_icons=true&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaEssa&layout=compact&theme=tokyonight">
 </div>
 
 <!---
